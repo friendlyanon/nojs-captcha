@@ -1,5 +1,5 @@
 # NoJS Captcha
-Use the fallback captcha instead of the crummy V2 once that will endlessly make
+Use the fallback captcha instead of the crummy V2 one that will endlessly make
 you solve challenges with tiles that appear at an increasingly slower rate.
 
 ## Caveats
